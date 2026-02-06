@@ -1,2 +1,4 @@
 # git-github-tutorial
-introduction
+
+author - vraj soni
+learning & testing git commands
